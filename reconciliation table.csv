@@ -1,0 +1,2 @@
+"successful_orders_count","total_internal_sales_usd","orphan_count","orphan_total_usd","total_bank_settlements_usd","discrepancy_gap_usd","gap_explanation"
+"37800","5269910.24","2222","337116.89","6438463.26","-1168553.02","Bank > Internal (likely due to orphan payments or extra settlements)"
